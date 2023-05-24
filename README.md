@@ -6,7 +6,7 @@
 <img align="right" alt="Data Visualization" width="350" src="https://user-images.githubusercontent.com/130072207/233847181-2d0bc9ea-b212-4833-8061-600079dfebc6.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramjit46&label=Profile%20views&color=0e75b6&style=flat" alt="paramjit46" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspreet29994&label=Profile%20views&color=0e75b6&style=flat" alt="paramjit46" /> </p>
 
 - 🔭 I’m currently working on [Cleaning Data with MS SQL Server](https://github.com/Paramjit46/SQL)
 - 🌱 I’m currently learning **Python & Data Science**

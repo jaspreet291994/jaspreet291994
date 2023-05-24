@@ -1,4 +1,4 @@
-![logo](https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analyst.png)
+![logo](https://github.com/jaspreet291994/jaspreet291994/blob/main/Data%20Analyst.png)
 
 <h1 align="center">Hi, I'm Jaspreet Kaur 👋</h1>
 <h3 align="center">A fervent Data Analyst and Data Visualization acolyte, transforming complex data into actionable insights for informed business decisions.</h3>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jaspreet-kaur-115790236/" target="_blank">
+<a href="https://www.linkedin.com/in/jaspreet291994" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/jaspreet94" target="_blank">

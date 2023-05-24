@@ -29,8 +29,6 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Power%20BI.png" alt="Power BI" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Tableau.png" alt="Tableau" height="50" /></a>  
 <a href="https://www.looker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Looker.png" alt="Looker" height="50" /></a>  
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Jira.png" alt="Jira" height="50" /></a>  
-<a href="https://www.servicenow.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Service%20Now.png" alt="Service Now" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Google%20Cloud.png" alt="GCP" height="50" /></a>  
 </div>
 
